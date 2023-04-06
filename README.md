@@ -9,7 +9,7 @@ Analysis
 
 The analysis includes 2 main parts. 
 
-*   **Statistical analysis**: The script performs several statistical tests to compare the performance of the old and new versions of the website. These tests include the t-test, the Mann-Whitney U test, and the chi-squared test.
+*   **Statistical analysis**: The script performs several statistical tests to compare the performance of the old and new versions of the website. 
     
 *   **Effect size calculation**: The script also calculates effect sizes for the statistical tests. This can be used to quantify the magnitude of the differences between the old and new versions of the website.
 
